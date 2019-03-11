@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://anas:3125mhow@ds117535.mlab.com:17535/onlineschool-api",
+    "secret": "anything"
+}
